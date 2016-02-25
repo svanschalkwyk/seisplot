@@ -1,5 +1,5 @@
-Branch of https://github.com/agile-geoscience/seisplot
-This version includes saving numpy arrays to files as well as plot/no plot control in yaml
+Branch of https://github.com/agile-geoscience/seisplot .
+This version includes saving numpy arrays to files as well as plot/no plot control in yaml.
 
 seisplot
 ========
