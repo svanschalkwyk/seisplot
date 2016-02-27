@@ -3,10 +3,10 @@
 # Configuration file for seisplot.py
 
 # Plot the image?
-plot: false
+plot: true
 
 # Save the numpy array as npy?
-save: true
+save: false
 
 # Side label side
 sidelabel: right
